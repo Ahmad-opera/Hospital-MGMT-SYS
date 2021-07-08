@@ -1,0 +1,9 @@
+                    ---- Hospital Management System ----
+
+After unzipping the folder to C:/Xampp/htdocs/:
+    - Open PhpMyAdmin in the browser and create a database with name "hospital_mgmt_sys"
+    - Select the database you created (hospital_mgmt_sys)
+    - Press Import in the PhpMyAdmin and import file name "hospital_mgmt_sys.sql" in this folder
+    - Open browser and go to http://localhost/Hospital-MGMT-SYS/.
+
+Thank you!
